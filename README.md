@@ -1,7 +1,7 @@
 # DEFFAI
 
 ## Requirements
-
+  * Opam, version 2.x.
   * OCaml, version 4.13.1 or later.  
 
 ## Installation
